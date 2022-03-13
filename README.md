@@ -8,41 +8,8 @@ Put Your Poster Designs here!
     <i>Hi</i>
   </body>
   </html>
-<html class="js-focus-visible" data-js-focus-visible=""><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
-<meta charset="ISO-8859-1">
-<title>Submission | DeviantArt</title>
-<meta http-equiv="x-dns-prefetch-control" content="off">
-<meta property="fb:page_id" content="6452638289">
-<link rel="publisher" href="https://plus.google.com/108424020240415471405">
-<meta http-equiv="content-language" content="en">
-<meta name="description" content="DeviantArt is the world's largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art.">
-<meta name="keywords" content="Art, Digital Art, Photography, Traditional Art, Community Art, Contemporary Art, Modern Art, Skins, Themes, Poetry, Prose, Applications, Wallpapers, Online Art">
-<meta name="classification" content="Art">
-<meta name="copyright" content="Copyright 2022 deviantART">
-<meta name="apple-itunes-app" content="app-id=925219396">
-<meta name="twitter:site" content="@deviantart">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://st.deviantart.net/minish/main/logo/card_black_large.png">
-<meta name="twitter:image:src" content="https://st.deviantart.net/minish/main/logo/card_black_large.png">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://www.deviantart.com/submit/">
-<meta property="og:title" content="Submission | DeviantArt">
-<meta property="og:description" content="DeviantArt is the world's largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art.">
-<meta property="og:site_name" content="DeviantArt">
-<meta property="og:image" content="https://st.deviantart.net/minish/main/logo/card_black_large.png">
-<meta property="twitter:account_id" content="1239671">
-        <script async="" src="https://st.deviantart.net/css/dapx_jc.js?4245352008"></script><script type="text/javascript">
-            window.vms_features={'tip_jar':1,'ms_submit_menu':1,'mobile_stage_height':1,'force_collection_strip':1,'deviation_stats_bar':1,'commentbox_refactor':1,'comment_refactor':1};
-            function vms_feature(feature) {
-                return (feature in window.vms_features);
-            }
-                        function is_beta() {
-                return false;
-            }
-        </script>
-        
+<html>
+  <head>
 <link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/submit-stash_lc.css?2198071154" media="Screen,Projection,TV,Print">
 <link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/deviantart-network_lc.css?3805373796" media="Screen,Projection,TV,Print">
 <link rel="stylesheet" type="text/css" href="https://st.deviantart.net/css/v6core_lc.css?2228408303" media="Screen,Projection,TV,Print">
@@ -68,6 +35,7 @@ Put Your Poster Designs here!
             return function(wake) {
                 q.push(wake);
             }
+    </head>
         })();</script><script src="https://static.parastorage.com/polyfill/v3/polyfill.min.js?features=polyfill.min.js?features=Intl,es2015,es2016,es2017,es2018,es2019,es7,es6,es5,default,Blob,HTMLCanvasElement.prototype.toBlob,IntersectionObserver,IntersectionObserverEntry,ResizeObserver&amp;flags=gated&amp;unknown=polyfill" crossorigin=""></script><script src="https://static.parastorage.com/unpkg/react@17.0.2/umd/react.production.min.js" crossorigin=""></script><script src="https://static.parastorage.com/unpkg/react-dom@17.0.2/umd/react-dom.production.min.js" crossorigin=""></script><script src="https://static.parastorage.com/unpkg/immutable@3.8.2/dist/immutable.min.js" crossorigin=""></script><script src="https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js" crossorigin=""></script><script src="https://static.parastorage.com/unpkg/@wix/draft-js@0.0.11/dist/Draft.js" crossorigin=""></script><script type="text/javascript">
 if (!window.deviantART) deviantART = {};deviantART.deviant ={"loggedIn":true,"browseShadows":true,"username":"PebbleAdvocate","symbol":"~","usericon":0,"id":73264217,"gender":"o","age":24,"subbed":false,"verified":true,"deactivated":false,"ads":true,"browseadult":false,"features":["tip_jar","ms_submit_menu","mobile_stage_height","force_collection_strip","deviation_stats_bar","commentbox_refactor","comment_refactor"]};
 deviantART.pageData={"tao":["GS2-1-a-5","HPO-1-a-2","ST3-1-a-9","fcf-1-a-8","fs1-1-a-10","nnc-1-a-8"],"user":{"symbol":"~","username":"PebbleAdvocate"},"csrf":"n1g1StvYFav1-8qE.r8onvu.g1nmIDW7araCdp9tIau4o2lW1ZOdj4ypPzaO1zdmX6g","dwait_total":3};
